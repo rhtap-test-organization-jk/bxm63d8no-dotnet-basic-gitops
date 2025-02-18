@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: bxm63d8no-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/bxm63d8no-dotnet-basic
